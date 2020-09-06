@@ -2,4 +2,4 @@ docker pull avni98/bobbleai:webapp
 
 Login into docker hub using username and credentials
 
-# docker run -it -d --name tomcatavni -p 91911:8080 avni98/bobbleai:webapp
+# docker run -it -d --name tomcatavni -p 9191:8080 avni98/bobbleai:webapp
