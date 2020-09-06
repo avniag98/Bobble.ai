@@ -1,0 +1,49 @@
+Ques 1) With Jio coming in, we have seen an influx of internet users from Tier 2 and Tier 3.
+Video/Content apps like Youtube and Tiktok have seen a huge growth while
+Amazon/Flipkart haven’t seen similar.
+What could be the reason for it? Feel free to use any publicly available data to support
+your hypotheses.
+
+Ans) The reason why apps like tiktok and youtube have seen huge growth are basically because these are content creation applications, where people from all walks of life 
+can participate freely.
+For these kind of applications the subscription is usually free. People ranging from lower to higher class are treated equally and belong to a common spectrum.
+Whereas applications such as amazon and flipkart are more oriented towards shopping. Purchasing capacity comes into play in such scenarios. As we know the purchasing power 
+for different people is different. 
+Brands want to leverage youtube subscribers and views to increase awareness drive consideration and ultimatly the purchase of their products and services.
+Because of the same reasons we have seen that amazon and flipkart have also started their journey towars content creation.
+
+
+Ques 2) New Onboarding Design at Nymtra
+
+Ans) I think the onboarding flow revamp is not a great success because as we can see from the trend the number of first time buyers have increased over the months but it seems 
+consumer doesn't want to go ahead with future purchase. 
+The revenue has also steadily increased due to this. Around 50% of the first time buyers have continued with the 2nd purchase in Auguest and September 
+but the figures for the month of october comes as a shock and the dip need to to be tackled right away.
+Even though the consumers have shown their trust they are not continuing after their first buy, they might be reluctant due to the shipping charges which are not free in future
+purchases.
+
+
+Ques 3)Personalised Recommendations at FilmiStar
+Part A:
+FilmiStar is India’s #1 app for watching movies. The Product team was tasked with
+designing a new carousel on the home screen that will show personalised movie
+recommendations based on the user’s taste. Currently, the home screen shows trending
+and new movies only.
+Questions:
+1) What will be the change in user behaviour once this feature is introduced?
+2) What should be the goals and metrics for this feature?
+3) How should this feature be launched and evaluated?
+
+
+Ans) 
+1) The feature with personalized movie recommendations will make the viewing experience pleasant and give a sense of familiarity. Reportrs suggest that viewers usually like 
+to see the content which match their taste and interest. Sometimes even a hit movie might not catch his interest and rather a movie with low budget but in his regional 
+language might give him a sense of satisfaction. 
+
+2) The goal should be that he should must be viewing atleast two or three movies out of the ones which are recommended by the platform. The metric can be the percentage 
+of the movie explode by the consumer based on the recommendations. A higher % would suggest at the platform has been able to capture and keep track of the audience interest.
+
+3) This feature should be launched by doing a lot of advertisement of the kind of technology ( mostly AI, ML) used in creating the personalized recommendation for every user.
+The success of this feature can be evaluated by seeing the growth of the users and also the time which the current users are spending on the platform. More time spent means 
+that there are lot of recommended options which the user is keen to view. Positive reviews will also give us a good benchmark to understand its success.  
+
